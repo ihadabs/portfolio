@@ -20,14 +20,14 @@ body {
   height: 6px;
 }
 
-.descroption {
+.description {
   margin: 0;
   padding: 0px;
   background-color: #2d3c49;
   width: 100%;
 }
 
-.descroption p {
+.description p {
   margin: 0px;
   padding: 55px;
   color: white;
